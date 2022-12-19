@@ -1,0 +1,10 @@
+-Add a smart file deletion system
+-Add error trapping for handling incomplete downloads or
+	if the server is online but the donwload link is notworking
+
+-Add function that will parse for incoming utility commnands
+-Add system shutdown feature
+-Add function for parsing the system configurations
+-Pause network check while, deleting and downloading the files
+-if time deviation exist already in the settings prevent recalculation
+-Do not save the ulitity commands from the server to cached json

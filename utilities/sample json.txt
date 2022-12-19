@@ -1,0 +1,4 @@
+{"mediaFiles":[{"fileName":"IMG_1694.JPG","startTime":"15:00","endTime":"16:00"},{"fileName":"IMG_1696.JPG","startTime":"20:00","endTime":"21:00"},{"fileName":"IMG_2069.MOV","startTime":null,"endTime":null},{"fileName":"IMG_2070.MOV","startTime":null,"endTime":null}],"serverDateTime":"2018-10-26 15:42","ipAddress":null,"macAddress":"AA:AA:AA:AA:AA"}
+
+
+{"mediaFiles":[{"fileName":"Big Buck Bunny.mp4","startTime":"13:00","endTime":"14:00"},{"fileName":"Wildlife.wmv","startTime":"15:00","endTime":"16:00"},{"fileName":"photo-1534877269024-2bdd7c66234b.png","startTime":null,"endTime":null},{"fileName":"photo-1534881164466-29e81806a9a6.png","startTime":null,"endTime":null}],"serverDateTime":"2018-10-26 15:42","ipAddress":null,"macAddress":"AA:AA:AA:AA:AA"}
